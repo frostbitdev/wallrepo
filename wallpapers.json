@@ -1,0 +1,45 @@
+{ 
+"wallpapers": 
+	[
+		{
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/frostbitdev/mywalls/master/wallpaper1.png",
+			"name": "wallA"
+		},
+		{
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/frostbitdev/mywalls/master/wallpaper2.png",
+			"name": "wallB"
+		},
+		{
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/frostbitdev/mywalls/master/wallpaper3.png",
+			"name": "wallC"
+		},
+		{
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/frostbitdev/mywalls/master/wallpaper4.png",
+			"name": "wallD"
+		},
+		{
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/frostbitdev/mywalls/master/wallpaper5.png",
+			"name": "wallE"
+		},
+		{
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/frostbitdev/mywalls/master/wallpaper6.png",
+			"name": "wallF"
+		},
+		{
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/frostbitdev/mywalls/master/wallpaper7.png",
+			"name": "wallG"
+		},
+		{
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/frostbitdev/mywalls/master/wallpaper8.png",
+			"name": "wallH"
+		}
+	]
+}
